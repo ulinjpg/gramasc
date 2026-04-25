@@ -1,0 +1,10 @@
+# ENCODED BY : Kamal
+# Telegram : https://t.me/Kamal939
+# Telegram Channel : https://t.me/+eTIBrGwcPjk3NzJl
+# ----------------------------------------------
+
+import marshal, base64, zlib 
+
+# Your original script code starts here:
+# ----------------------------------------------
+exec(marshal.loads(zlib.decompress(base64.b64decode(b'eJy1V19v2zYQ77MBf4eLC1R2G8nNOmyDgTx4SAsEK+IiTrBhWWDQ0snhIpEsSdn1snzqfYEd9V+2u6QP84Mtnu7//e6O/udt/8WLl+C/9iGUERerCWQ29n9ylH6v3+OpktqCNPWjSpiNpU5rgtkax6k0F3Y4uHlzC+fCWJYkpA00fs64xhSFNRAEwWDkeF/CNFozEWIEEa55iPRjMbRcCogzkT/0exHGwM3Cok6zL8PRpN8D+vAYvFCmQUH2gAvnQYBfMMwsWyZY8rmPRptpAVc6w0b40+X7D+e/5YKS5MSaazLLRLSnt3kdrNAOK8lj8LzRE1aqLAXkm8V0OILTU/A+cuFUO1tDb3pxdjk7P1tczmZXu95IDfX7s+nVdOd92zoZoxeK2TvKATfWDL1xxCwrvpqIxjFP0Iwzo8dLLsbqftUJ4mAgJeEDSwwWdbts1zMhc/1ep8SncFOIes5qKBOpveOSkp9YymqCk0TyuCbYVai3ysqaYMgBOsvEtLSImK8U0wYb1Wqr5Yp0N5owQXsnRU1YoSSAt0Q0VUGmi4zULNiKnG+UkRyKLF2ibswukWWWx1liZKa+r8kxu2/pxJTxpOsu4zJPfE0QLC1Ot0VGZ/MG/P1eAZeFY6Jc7qGoEDkJYCoiLXkEY7jKqwsf5YqH1JOHWqbVmpXcsBAblbYxOoJrRYhxPVsYy1HKm042CkMe8xA+bV1iYU3ZIZfLnnZmim8CY+mtRxiDzGlF8Lfw6hUUBCpU5Cje6KBEaRPChJHZMKUMg+DiTwY6Mxby85PChFtfo5JPc6o8nHfByUmLt/h+CXO0Vbw5BzOUsJhlid3TmQjwTQzP6r3G5DewH4jj/7bZTUdBW7hJS9gcNBoHBSy/C2BuCTVMR5BPOhj+whJ+DNfLTNjsGNCGwahCKiaE1Q7c6wG5D9tCXd0qHbgqFt5TA5tdwLbqtgdSqmwWSWqVakFFQH1WmikVEtIE/bi5tpd446SZsj7thQbiByrUYawgZ2RsN0yjr7RUqC1H41MlUvJ2H4LlMu3CkCJVXD3PWqvyzaO/plXSPtMePmD82iCEmaZ+kpW+cRnuIfs5q2/mcGetMpPxeCmlNVYzFaitYgGXY/LMJ1E6w9+Q+9s48W1wexfAr5xm+Ma4dZmykOAxnCqV4NcxRlv0xiul3B4/Y3rDhXc7oViLZ0iRCVOoa8MwznH40FL22MFjha8iZ/Yuz5sm7FSFay4oh8LrXmHARYi0dCf7LlyLeyE3whkfdtxpZnkAlTf/ZaTI4nU5jvNytjquoOf9RdUq+qepdOw9tFQ/gp86thpyvp81amFzh5h45e7agXPVvF+7P5ZsESoUEYqQWqV0xvVr6+rhStu+iUx2wfmEyw8t4cfK2bnbeSwhTBjjJoKz2cJcDjZwNwiTb95nIa0z2/4QA3gDg9PB6x/ejvam3tzdfuhenpIZKiu1SxiSJ3QJSbY14Cr+I1ru1pL3tJQncB7DVmZA7SWkhTu2xs4AKaMmnUQhRl36fryjNX9MkBGkKRCRSBa1xyxwt49FRo9biLVMS8AFUq+CAw7OnKFQc2Xd6K1uFLl0hIavBBbqpbI85X/RieaOzujqK4iFXG3P9B39eQ5dMimnowPdQ/T9nB4V/0daOb+QmzxzIRO55anYws9nP578Prt4D+5qRyL/AlFrIWE='))))
